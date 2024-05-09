@@ -1,1 +1,1 @@
-
+Delaney's Solubility with Descriptors refers to a dataset used in cheminformatics and machine learning. It contains molecular structures along with various chemical descriptors and the corresponding experimentally determined solubility values. This dataset is commonly utilized for developing predictive models, such as regression models, to estimate the solubility of organic compounds based on their chemical structure and associated descriptors.
